@@ -1,0 +1,20 @@
+{
+  "name": "zeeshan-simple-calculator",
+  "version": "1.0.0",
+  "description": "Zeeshan Simple Calculator",
+  "main": "index.js",
+  "type": "module",
+  "Bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeeshan Khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "zeeshan-simple-calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
